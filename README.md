@@ -142,7 +142,9 @@ curl -X POST \
  - CI (Travis, Gitlab, Circle CI, Github Actions, ...) - extremamente recomendado na vaga para sênior e pleno
  - Executar a aplicação e base de dados em Docker
 
-
+### Observações
+ - Disponibilizar a URL do Deploy da Aplicação no Readme.md
+ - Disponibilizar a documentação da API desenvolvida
 ___
 Boa Sorte,
 Equipe iClinic.
